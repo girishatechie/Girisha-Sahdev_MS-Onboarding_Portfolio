@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Crop Recommendation System using Machine Learning",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "My team and I had worked on building a crop recommendation system that can be successfully used to derive and predict the crop yield by taking in available parameters such as rainfall, average temperature and amount of pesticides used during the crop period. Our project was shortlisted as one of the Top 20 Teams (Semi-Finalist) out of 1000+ Applicants, in HackOverflow 2.0.",
+    url: "https://github.com/girishatechie/Crop-Yield-er_Hackoverflow-2.0",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Ask Your Seniors: Web Application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Worked on the Frontend of this Web Application, built using MERN Stack. It creates a seamless link between you and your College seniors so that they can enlighten you with their invaluable experience and clarify your doubts.",
+    url: "https://github.com/girishatechie/Ask-Your-Seniors",
   },
   {
-    title: "My Resume Site",
+    title: "Prediction of Strength of Concrete using Machine Learning",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Worked on this project in a group, as a part of my Research Internship. We built the ML Model using Python. Libraries like Numpy, Matplotlib, Pandas, Scikit-Learn, etc were used and the model was properly trained using most accurate ML Algorithms like DecisionTree Regressor, Random Forest Regressor, etc and the accuracy was compared, for each.",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Airline Booking System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created using Database connectivity through Python and SQL. This project also involved the use of Tkinter Library.",
+    url: "",
   },
 ];
 
