@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a B.Tech Undergrad, Studying at Indira Gandhi Delhi Technical University for Women. I am a Web Developer and an ML Enthusiast. I am passionate about Technology and Innovation. I am inclined towards AI-ML, MERN as well as Flutter Development. The fact that we can solve real world problems with the help of programming is what keeps me going. ";
+  "Hi! I'm Girisha Sahdev, a B.Tech Undergrad, studying at Indira Gandhi Delhi Technical University for Women. I am a Web Developer and an ML Enthusiast. I am passionate about Technology and Innovation. I am inclined towards AI-ML, MERN as well as Flutter Development. The fact that we can solve real world problems with the help of programming is what keeps me going. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
