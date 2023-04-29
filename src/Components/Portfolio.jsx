@@ -33,19 +33,19 @@ const projectList = [
   {
     title: "Crop Recommendation System using Machine Learning",
     description:
-      "My team and I had worked on building a crop recommendation system that can be successfully used to derive and predict the crop yield by taking in available parameters such as rainfall, average temperature and amount of pesticides used during the crop period. Our project was shortlisted as one of the Top 20 Teams (Semi-Finalist) out of 1000+ Applicants, in HackOverflow 2.0.",
+      "A crop recommendation system that can be successfully used to derive and predict the crop yield by taking in available parameters such as rainfall, average temperature and amount of pesticides used during the crop period. Our project was shortlisted as one of the Top 20 Teams (Semi-Finalist) out of 1000+ Applicants, in HackOverflow 2.0.",
     url: "https://github.com/girishatechie/Crop-Yield-er_Hackoverflow-2.0",
   },
   {
     title: "Ask Your Seniors: Web Application",
     description:
-      "Worked on the Frontend of this Web Application, built using MERN Stack. It creates a seamless link between you and your College seniors so that they can enlighten you with their invaluable experience and clarify your doubts.",
+      "This Web App built using MERN Stack, creates a seamless link between you and your College seniors so that they can enlighten you with their invaluable experience and clarify your doubts.",
     url: "https://github.com/girishatechie/Ask-Your-Seniors",
   },
   {
     title: "Prediction of Strength of Concrete using Machine Learning",
     description:
-      "Worked on this project in a group, as a part of my Research Internship. We built the ML Model using Python. Libraries like Numpy, Matplotlib, Pandas, Scikit-Learn, etc were used and the model was properly trained using most accurate ML Algorithms like DecisionTree Regressor, Random Forest Regressor, etc and the accuracy was compared, for each.",
+      "Built this ML Model using Python. Libraries like Numpy, Matplotlib, Pandas, Scikit-Learn, etc were used and the model was properly trained using most accurate ML Algorithms, for better accuracy.",
     url: "",
   },
   {
