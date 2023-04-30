@@ -29,7 +29,7 @@ const siteProps = {
   email: "girishasahdev18@gmail.com",
   gitHub: "girishatechie",
   instagram: "girishasahdev",
-  linkedIn: "GirishaSahdev",
+  linkedIn: "girisha-sahdev-131056231",
   medium: "",
   twitter: "GirishaSahdev",
   youTube: "",
